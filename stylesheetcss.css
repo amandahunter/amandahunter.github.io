@@ -43,6 +43,7 @@ li a {
  font-family:verdana;
   padding: 14px 16px;
   text-decoration: none;}
+li a:hover {background-color: blue;}
 
 
 .mandytable {
@@ -62,14 +63,11 @@ tb {
   font-family:verdana;
  text-align: left;
   background-color:#a0dcdd;
- color:blue;}
+ color:black;}
 
 tr {width: 20px;}
-tr:hover {background-color:white;}
+tr:hover {background-color:blue;}
 
-a:hover {
-  text-decoration: underline;color:blue;
-}
 
 /*text decoration https://www.w3schools.com/css/css_link.asp*/
 /* https://www.w3schools.com/css/css_font_size.asp*/
