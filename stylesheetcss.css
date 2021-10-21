@@ -5,6 +5,14 @@ body {font-family: calibri;}
 h1.center {text-align: center;background-color: black; color: white;
  font-family: verdana;}
 
+h1 {font-family: verdana;}
+h2 {font-family: verdana;background-color:blue}
+h3 {font-family: verdana;color: blue}
+h4 {font-family: calibri;}
+h5 {font-family: calibri;}
+h6 {font-family: calibri;}
+p {font-family: calibri; color:black}
+
 .headerfortable{text-align: center;background-color:black; color:white}
  
 .customul {
@@ -20,6 +28,7 @@ li a {
   display: block;
   color: white;
   text-align: center;
+ font-family:verdana;
   padding: 14px 16px;
   text-decoration: none;}
 li a:hover {background-color: blue;}
@@ -28,17 +37,24 @@ li a:hover {background-color: blue;}
   width: 90%;
  border-collapse:collapse;
 }
-/found help here *https://www.w3schools.com/css/css_table_style.asp*/
+/*found help here https://www.w3schools.com/css/css_table_style.asp*/
 th {
   padding: 20px;
-  text-align: left;
-  border-bottom: 1px solid #DDD;
+  font-family:verdana;
+ text-align: left;
  background-color:black;
   color:white;
 }
+tb {
+  padding: 20px;
+  font-family:verdana;
+ text-align: left;
+  border-bottom: 1px solid #DDD;
+ color:blue;
+}
 
-tr {width: 15px;}
-tr:hover {background-color: purple;}
+tr {width: 30px;}
+tr:hover {background-color: blue;}
 
 
 .columnmandy1 {
@@ -46,43 +62,14 @@ tr:hover {background-color: purple;}
   width: 600px;
   padding: 25px;
  object-fit:cover;
- font-size: 15px;border;
+ font-size: 30px;
 }
 /* https://www.w3schools.com/css/css_font_size.asp*/
-
 
 .columnmandy2 {
   float: left;
   width: 600px;
   padding: 25px;
  object-fit:cover;
- font-size: 15px;border;
 }
-.columnmandy3 {
-  float: left;
-  width: 600px;
-  padding: 25px;
- object-fit:cover;
- font-size: 15px;border;
-}
-.columnmandy4 {
-  float: left;
-  width: 600px;
-  padding: 25px;
- object-fit:cover;
- font-size: 15px;border;
-}
-.columnmandy5 {
-  float: left;
-  width: 600px;
-  padding: 25px;
- object-fit:cover;
- font-size: 15px;border;
-}
-.columnmandy6 {
-  float: left;
-  width: 600px;
-  padding: 25px;
- object-fit:cover;
- font-size: 15px;border;
-}
+
