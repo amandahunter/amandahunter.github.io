@@ -25,11 +25,11 @@ li a {
 li a:hover {background-color: tomato;}
 
 .mandytable {
-  width: 800px;
+  width: 1000px;
 }
 
 th, td {
-  padding: 8px;
+  padding: 20px;
   text-align: left;
   border-bottom: 1px solid #DDD;
 }
