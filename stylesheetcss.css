@@ -50,26 +50,11 @@ tb {
   font-family:verdana;
  text-align: left;
   border-bottom: 1px solid #DDD;
- color:blue;
-}
-
-tr {width: 30px;}
+ color:blue;}
+tr {width: 20px;}
 tr:hover {background-color: blue;}
 
 
-.columnmandy1 {
-  float: left;
-  width: 600px;
-  padding: 25px;
- object-fit:cover;
- font-size: 30px;
-}
 /* https://www.w3schools.com/css/css_font_size.asp*/
 
-.columnmandy2 {
-  float: left;
-  width: 600px;
-  padding: 25px;
- object-fit:cover;
-}
 
