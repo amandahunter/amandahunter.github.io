@@ -22,17 +22,21 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;}
-li a:hover {background-color: tomato;}
+li a:hover {background-color: blue;}
 
 .mandytable {
-  width: 1000px;
+  width: 90%;
+ border-collapse:collapse;
 }
 
-th, td {
+th {
   padding: 20px;
   text-align: left;
   border-bottom: 1px solid #DDD;
+ background-color:black;
+  color:white;
 }
+
 tr {width: 15px;}
 tr:hover {background-color: purple;}
 
