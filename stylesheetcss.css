@@ -12,7 +12,10 @@ h4 {font-family: calibri;}
 h5 {font-family: calibri;}
 h5.quotation {font-style: italic;font-family: calibri;}
 h6 {font-family: calibri;}
-p {font-family: calibri; color:black}
+p {font-family: calibri; color:black; font-size:15;}
+
+img.circleme {border-radius: 50%;
+}
 
 .headerfortable{text-align: center;background-color:black; color:white}
  
