@@ -39,7 +39,6 @@ tr:hover {background-color: purple;}
 
 .divmandy {
   width: 300px;
- float:;
   height: 100%;  
   padding: 25px;
   border: 4px solid black;
@@ -50,6 +49,7 @@ tr:hover {background-color: purple;}
   width: 300px;
   padding: 25px;
  object-fit:cover;
+ font-size: 15px;
 
 }
 /* https://www.w3schools.com/css/css_font_size.asp*/
