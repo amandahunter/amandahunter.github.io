@@ -5,14 +5,14 @@ body {font-family: calibri;}
 h1.center {text-align: center;background-color: black; color: white;
  font-family: verdana;}
 
-.headerfortable{color:purple;}
+.headerfortable{text-align: center;background-color:black; color:white}
  
 .customul {
  list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;}
+  background-color: black;}
 
 li {float: left;}
 
@@ -34,3 +34,4 @@ th, td {
   text-align: left;
   border-bottom: 1px solid #DDD;
 }
+td:hover {background-color: purple;}
