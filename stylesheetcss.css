@@ -39,7 +39,18 @@ tr:hover {background-color: purple;}
 
 .divmandy {
   width: 300px;
+ float:left;
   height: 100%;  
   padding: 25px;
   border: 4px solid black;
 }
+
+.columnmandy1 {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+}
+.columnmandy1 {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
