@@ -43,7 +43,7 @@ li a {
  font-family:verdana;
   padding: 14px 16px;
   text-decoration: none;}
-li a:hover {background-color: blue;}
+
 
 .mandytable {
   width: 90%;
@@ -73,5 +73,6 @@ a:hover {
 
 /*text decoration https://www.w3schools.com/css/css_link.asp*/
 /* https://www.w3schools.com/css/css_font_size.asp*/
+li a:hover {background-color: blue;}
 
 
