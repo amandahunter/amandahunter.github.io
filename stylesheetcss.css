@@ -1,10 +1,11 @@
 
 
-body {font-family: roboto;}
+body {font-family: calibri;}
  
-h1 {background-color: black; color: white;
+h1.center {text-align: center;background-color: black; color: white;
  font-family: verdana;}
-h1.center {text-align: center;}
+
+.headerfortable{color:purple;}
  
 .customul {
  list-style-type: none;
@@ -23,7 +24,7 @@ li a {
   text-decoration: none;}
 li a:hover {background-color: tomato;}
 
-table {
+.mandytable {
   border-collapse: collapse;
   width: 100%;
 }
