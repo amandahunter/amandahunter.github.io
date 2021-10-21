@@ -34,4 +34,5 @@ th, td {
   text-align: left;
   border-bottom: 1px solid #DDD;
 }
-td:hover {background-color: purple;}
+tr {width: 10px;}
+tr:hover {background-color: purple;}
