@@ -10,6 +10,7 @@ h2 {font-family: verdana;background-color:blue}
 h3 {font-family: verdana;color: blue}
 h4 {font-family: calibri;}
 h5 {font-family: calibri;}
+h5.quotation {font-style: italic;font-family: calibri;}
 h6 {font-family: calibri;}
 p {font-family: calibri; color:black}
 
