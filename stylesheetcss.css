@@ -61,8 +61,7 @@ tb {
   padding: 20px;
   font-family:verdana;
  text-align: left;
-  border-bottom;
- background-color:a0dcdd;
+  background-color:#a0dcdd;
  color:blue;}
 
 tr {width: 20px;}
@@ -72,7 +71,7 @@ a:hover {
   text-decoration: underline;color:blue;
 }
 
-/text decroation *https://www.w3schools.com/css/css_link.asp*/
+/*text decoration https://www.w3schools.com/css/css_link.asp*/
 /* https://www.w3schools.com/css/css_font_size.asp*/
 
 
