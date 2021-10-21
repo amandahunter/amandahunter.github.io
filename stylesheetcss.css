@@ -28,7 +28,7 @@ li a:hover {background-color: blue;}
   width: 90%;
  border-collapse:collapse;
 }
-
+/found help here *https://www.w3schools.com/css/css_table_style.asp*/
 th {
   padding: 20px;
   text-align: left;
