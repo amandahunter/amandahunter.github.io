@@ -4,6 +4,7 @@ body {font-family: roboto;}
  
 h1 {background-color: black; color: white;
  font-family: verdana;}
+.center {text-align: center;}
  
 ul {
   list-style-type: none;
