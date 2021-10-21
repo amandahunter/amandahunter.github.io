@@ -10,12 +10,14 @@ h2 {font-family: verdana;background-color:blue}
 h3 {font-family: verdana;color: blue}
 h4 {font-family: calibri;}
 h5 {font-family: calibri;}
-h5.quotation {font-style: italic;font-family: calibri;}
+h5.quotation {font-style: italic;font-family: calibri;color:blue;font-size:20px}
 h6 {font-family: calibri;}
-p {font-family: calibri; color:black; font-size:15;}
+p {font-family: calibri; color:black; font-size:15px;}
+/* https://www.w3schools.com/css/css_font_size.asp*/
 
-img.circleme {border-radius: 50%;
+.circleme {border-radius: 50%;
 }
+/*https://www.w3schools.com/css/css3_images.asp*/
 
 .headerfortable{text-align: center;background-color:black; color:white}
  
@@ -53,8 +55,9 @@ tb {
   padding: 20px;
   font-family:verdana;
  text-align: left;
-  border-bottom: 1px solid #DDD;
+  border-bottom;
  color:blue;}
+
 tr {width: 20px;}
 tr:hover {background-color: blue;}
 
